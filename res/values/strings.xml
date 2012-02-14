@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_format">Number of click : %1$d times</string> 
+    <string name="message_label">Number of click : 0 times</string>
+    <string name="button_label1">Click Me ...</string>
+    <string name="app_name">Personal Demo</string>
+</resources>
